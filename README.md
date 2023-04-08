@@ -2,4 +2,4 @@
 
 An attempt to create a recipe website. 
 
-Site: https://devvivan.github.io/odin-recipes/recipes/lasagna.html
+Site: https://devvivan.github.io/odin-recipes/recipes/index.html
