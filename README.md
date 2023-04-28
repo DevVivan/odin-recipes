@@ -1,5 +1,5 @@
-# odin-recipes
+# Recipes
 
-An attempt to create a recipe website. 
+This is recipes, the [first project](https://www.theodinproject.com/lessons/foundations-recipes) within the Odin Project curriculum.
 
 Site: https://devvivan.github.io/odin-recipes/
