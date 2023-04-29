@@ -10,3 +10,6 @@ In this recipes project, I incorporated basic CSS styling and utilised the found
 - [*My Progress*](https://github.com/DevVivan/odin-project)
 
 ## Images
+
+![Main Page](images/screenshot-1.png)
+![Lasagna Recipe Page](images/screenshot-2.png)
