@@ -1,6 +1,6 @@
 # Recipes
 
-This was recipes, the [*first project*](https://www.theodinproject.com/lessons/foundations-recipes) within the Odin Project curriculum. This was an assignment designed to make students practice the basics of HTML and CSS knowledge acquired.
+This was recipes, the [*1st project*](https://www.theodinproject.com/lessons/foundations-recipes) within the Odin Project curriculum. This was an assignment designed to make students practice the basics of HTML and CSS knowledge acquired.
 
 In this recipes project, I incorporated basic CSS styling and utilised the foundations of HTML to create linked pages.
 
