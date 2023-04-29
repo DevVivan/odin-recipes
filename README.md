@@ -11,5 +11,5 @@ In this recipes project, I incorporated basic CSS styling and utilised the found
 
 ## Images
 
-![Main Page](images/screenshot-1.png)
-![Lasagna Recipe Page](images/screenshot-2.png)
+![Main Page](screenshots/screenshot-1.png)
+![Lasagna Recipe Page](screenshots/screenshot-2.png)
