@@ -9,6 +9,18 @@ In this recipes project, I incorporated basic CSS styling and utilised the found
 - [*Live Preview*](https://devvivan.github.io/odin-recipes/)
 - [*My Progress*](https://github.com/DevVivan/odin-project)
 
+## What did this project teach me?
+
+### HTML
+
+- HTML Boilerplate
+- Lists
+- Links and Images
+
+### Other
+
+- The [*Git Workflow*](https://www.theodinproject.com/lessons/foundations-git-basics)
+
 ## Images
 
 ![Main Page](screenshots/screenshot-1.png)
